@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.6.0",
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "ts-decorators": "ts-node ts-decorators"
+  }
+}
